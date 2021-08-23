@@ -32,4 +32,4 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 %matplotlib
 
-### write code for bar chart as well as line chart for visualization of live count
+### write code for bar chart as well as line chart for visualization of live con
